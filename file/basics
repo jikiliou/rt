@@ -1,0 +1,8 @@
+material test
+sphere center -3 0 0 rayon 1 color 192 57 43
+plan pos 0 -1 0 normal 0 1 0 color 80 160 230
+cone pos 0 0 0 axe 0 1 0 alpha 25 color 39 174 96
+cylindre pos 3 0 0 axe 0 1 0 rayon 1 color 142 68 173
+light pos 10 3 -10 intensity 10 color 255 255 255
+light pos -10 3 -10 intensity 10 color 255 255 255
+cam pos 0 5 -20 loook_at 0 -2 10

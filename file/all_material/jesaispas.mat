@@ -1,0 +1,5 @@
+name test
+diffuse color 255
+specular color 200
+ambiant color 255
+reflection 100%

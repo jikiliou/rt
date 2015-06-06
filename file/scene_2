@@ -1,0 +1,22 @@
+material test
+plan pos 0 0 35 normal 0 0 -1 color 0 0 120
+plan pos 0 4 0 normal 0 -1 0 color  120 120 120
+plan pos 0 -4 0 normal 0 1 0 color 120 120 120
+cylindre pos 4 0 5 axe 0 1 0 radius 1 color 100 100 100
+sphere pos 4 4 5 rayon 2 color 100 100 100
+sphere pos 4 -4 5 rayon 2 color 100 100 100
+cylindre pos 4 0 25 axe 0 1 0 radius 1 color 100 100 100
+sphere pos 4 4 25 rayon 2 color 100 100 100
+sphere pos 4 -4 25 rayon 2 color 100 100 100
+cylindre pos -4 0 5 axe 0 1 0 radius 1 color 100 100 100
+sphere pos -4 4 5 rayon 2 color 100 100 100
+sphere pos -4 -4 5 rayon 2 color 100 100 100
+cylindre pos -4 0 25 axe 0 1 0 radius 1 color 100 100 100
+sphere pos -4 4 25 rayon 2 color 100 100 100
+sphere pos -4 -4 25 rayon 2 color 100 100 100
+sphere pos 0 -3 0 rayon 1 color 100 0 0
+ 
+light pos 15 3 -0 intens 10 color 255 255 255
+light pos -15 3 -0 intens 10 color 255 255 255
+
+cam pos 0 0 -30 look_at 0 0 10

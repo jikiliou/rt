@@ -1,0 +1,13 @@
+material test
+cone  center 0 0 10 axe 0 1 0 alpha 25 color 0 120 120
+sphere center 3 1 10 rayon 2 color 200 100 0
+sphere center 0 0 10 rayon 4 color 200 0 0
+sphere center -3 1 10 rayon 2 color 200 100 0
+sphere center 1 1 6 rayon 1 color 200 100 0
+sphere center -1 1 6 rayon 1 color 200 100 0
+sphere center -0 -13 10 rayon 10 color 200 100 0
+cylindre pos 0 -7 10 axe 1 0 0 rayon 2 color 180 180 0
+light  pos 10 10 10  intensity 10 color 255 255 255
+light  pos -10 10 -10  intensity 10 color 255 255 255
+cam pos 0 0 -50 look_at 0 0 10
+
